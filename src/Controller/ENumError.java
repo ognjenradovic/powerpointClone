@@ -1,0 +1,6 @@
+package Controller;
+
+public enum ENumError {
+	NEDOSTAJE_IME_AUTOR, ADD_ON_SLIDE, NEDOSTAJE_SLIKA, NIJE_SELEKTOVANA_PREZENTACIJA
+
+}
